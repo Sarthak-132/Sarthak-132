@@ -1,4 +1,4 @@
-###
+![logo](https://github.com/Sarthak-132/Sarthak-132/blob/main/artificial-intelligence-g6a9438226_1280.jpg)
 <h1 align="center">Hi 👋, I'm Sarthak dhoke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
